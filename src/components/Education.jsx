@@ -10,24 +10,24 @@ const Education = () => {
   const educationData = [
     {
       degree: "Bachelors of computer Application(BCA)",
-      institution: "Technocrats Institute Of Technology, Bhopal",
-      field: "Electronics and Communication",
-      score: "CGPA: 8.35",
-      year: "2020 - 2024"
+      institution: "Sarojani Naidu Govt. Girls College, Bhopal",
+      field: "Computer Application",
+      score: "CGPA: 7.77",
+      year: "2021 - 2024"
     },
     {
       degree: "12th",
-      institution: "Govt. Maharaja Multi Purpose H.S. Excellence School No.1, Chhatarpur",
+      institution: "Govt.Excellence H.S. School, Prabhat Pattan",
       field: "MP Board",
-      score: "Percentage: 63.8%",
-      year: "2019-2020"
+      score: "Percentage: 84.2%",
+      year: "2020-2021"
     },
     {
       degree: "10th",
-      institution: "Govt. H.S. School, Kishangarh, Chhatarpur",
+      institution: "Govt.Excellence H.S. School, Prabhat Pattan",
       field: "MP Board",
-      score: "Percentage: 80.8%",
-      year: "2017-2018"
+      score: "Percentage: 84.2%",
+      year: "2018-2019"
     }
   ];
 
