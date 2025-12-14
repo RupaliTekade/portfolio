@@ -10,7 +10,7 @@ import churn from "../assets/churn.png";
 import house from "../assets/House.jpg";
 import weather from "../assets/Weather.png";
 import portfolio from "../assets/folio.png";
-import car from "../assets/crop.png";
+import crop from "../assets/crop.png";
 
 // Placeholder images - replace with your actual project screenshots
 
