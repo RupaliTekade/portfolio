@@ -10,6 +10,7 @@ import churn from "../assets/churn.png";
 import house from "../assets/House.jpg";
 import weather from "../assets/Weather.png";
 import portfolio from "../assets/folio.png";
+import car from "../assets/crop.png";
 
 // Placeholder images - replace with your actual project screenshots
 
@@ -18,6 +19,26 @@ const Projects = () => {
   const [selectedProject, setSelectedProject] = useState(null);
 
   const projects = [
+     {
+      title: "🌱 Crop Recommendation System",
+      description:
+        "A Machine Learning–based Crop Recommendation System that suggests the most suitable crop to grow based on soil nutrients and environmental conditions. ",
+      tech: [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Matplotlib",
+        "Seaborn",
+        "Flask",
+        "HTML,CSS"
+      ],
+      category: "Machine Learning",
+      bg: "from-purple-600 to-purple-800",
+      github: "https://github.com/RupaliTekade/Crop_Recommendation_System",
+      live: "#",
+      img: crop,
+    },
     {
       title: "🚗 Car Price Prediction Model",
       description:
