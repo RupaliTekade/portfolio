@@ -11,6 +11,9 @@ import house from "../assets/House.jpg";
 import weather from "../assets/Weather.png";
 import portfolio from "../assets/folio.png";
 import crop from "../assets/crop.png";
+import Sales1 from "../assets/Sales1.png";
+import Sales2 from "../assets/Sales2.png";
+import Sales3 from "../assets/Sales3.png";
 
 // Placeholder images - replace with your actual project screenshots
 
@@ -115,6 +118,17 @@ const Projects = () => {
       github: "https://github.com/RupaliTekade/WeatherApp",
       live: "#",
       img: weather,
+    },
+    {
+      title: "Power BI Sales & Returns Analysis Dashboard",
+      description:
+        "Built an interactive dashboard to analyze Sales vs Target and Sales vs Return (Revenue & Quantity) using Power BI Performed data cleaning, transformation, and modeling using Power Query and DAX. Created MTD/YTD KPI visuals, line charts, bar charts, and slicer-based filters for dynamic insights. Developed a Date Dimension Table and enabled drill-down analysis by Distributor, Product Code,Plant, and Month. Identified top return products and visualized distributor-wise performance to support business decisions",
+      tech: ["Power BI", "Data Analysis", "Power Query"],
+      category: "Data Analysis",
+      bg: "from-blue-600 to-blue-800",
+      linkedln : "https://www.linkedin.com/posts/rupalitekade_power-bi-sales-performance-dashboard-im-activity-7381657418298179584-WHyT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGftR4BkhVHSx_llGxha-7Xt5gVoAi5n6Q",
+      live: "#",
+      img : Sales1,Sales2,Sales3,
     },
   ];
 
