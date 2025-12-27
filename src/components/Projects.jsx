@@ -126,7 +126,7 @@ const Projects = () => {
       tech: ["Power BI", "Data Analysis", "Power Query"],
       category: "Data Analysis",
       bg: "from-blue-600 to-blue-800",
-      linkedln : "https://www.linkedin.com/posts/rupalitekade_power-bi-sales-performance-dashboard-im-activity-7381657418298179584-WHyT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGftR4BkhVHSx_llGxha-7Xt5gVoAi5n6Q",
+      github : "https://www.linkedin.com/feed/update/urn:li:activity:7381657418298179584/",
       live: "#",
       img : Sales1,Sales2,Sales3,
     },
