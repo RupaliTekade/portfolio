@@ -64,16 +64,16 @@ const Skills = () => {
     { name: "CSS", icon: <FaCss3Alt />, color: "text-blue-500" },
     { name: "JavaScript", icon: <FaJs />, color: "text-yellow-400" },
     { name: "Bootstrap", icon: <FaBootstrap />, color: "text-purple-500" },
-    {
-      name: "ReactJS",
-      icon: <FaReact />,
-      color: "text-blue-500",
-    },
-    {
-      name: "Tailwind CSS",
-      icon: <RiTailwindCssFill />,
-      color: "text-green-500",
-    },
+    // {
+    //   name: "ReactJS",
+    //   icon: <FaReact />,
+    //   color: "text-blue-500",
+    // },
+    // {
+    //   name: "Tailwind CSS",
+    //   icon: <RiTailwindCssFill />,
+    //   color: "text-green-500",
+    // },
   ];
 
   const container = {
