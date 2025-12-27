@@ -183,7 +183,7 @@ const Projects = () => {
           viewport={{ once: true }}
           className="flex flex-wrap gap-3 mb-12"
         >
-          {["all", "Machine Learning", "frontend"].map((tab) => (
+          {["all", "Machine Learning", "frontend","Data Analysis"].map((tab) => (
             <motion.button
               key={tab}
               whileHover={{ scale: 1.05 }}

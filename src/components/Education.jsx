@@ -9,7 +9,14 @@ import { motion } from "framer-motion";
 const Education = () => {
   const educationData = [
     {
-      degree: "Bachelors of computer Application(BCA)",
+      degree: "Master's of computer Application(MCA)",
+      institution: "Oriental Institute Of Science And Technology, Bhopal",
+      field: "Computer Application",
+      score: "CGPA: 8.29",
+      year: "2024 - 2026"
+    },
+    {
+      degree: "Bachelor's of computer Application(BCA)",
       institution: "Sarojani Naidu Govt. Girls College, Bhopal",
       field: "Computer Application",
       score: "CGPA: 7.77",
